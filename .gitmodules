@@ -1,0 +1,3 @@
+[submodule "Projects/IAM-Lab-Foundation"]
+	path = Projects/IAM-Lab-Foundation
+	url = git@github.com:JORGEBAYUELO/IAM-Lab-Foundation.git
